@@ -1,3 +1,3 @@
 # exosite
 
-test for exokit site
+test for exokit readthedocs.io
